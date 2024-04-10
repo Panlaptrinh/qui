@@ -1,3 +1,9 @@
+.script{
+  overflow: visible;
+  width: 190px;
+  height: 254px;
+}
+
 .card {
   overflow: visible;
   width: 190px;
